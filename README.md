@@ -1,7 +1,7 @@
 # This repository is for demonstration of "Contrastive Learning for Vietnamese Abstractive Summarization" study
 
 ## Implementation
-The implementation is based on the implementation of [BRIO system](https://github.com/yixinL7/BRIO)
+The implementation is based on the implementation of [BRIO system](https://github.com/yixinL7/BRIO). The source code is being refactored and will be published soon.
 
 ## To reproduce the result in the paper
 
